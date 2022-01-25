@@ -36,9 +36,9 @@ Modify partial or whole string and transform it to our needs.
 
 #### Number Operation
 
-0. compute the `GCD` of two numbers.
-1. list all factors of N.
-2. check the range which include the given integer.
+0. ~~compute the `GCD` of two numbers.~~
+1. ~~list all factors of N.~~
+2. ~~check the range which include the given integer.~~
 
 #### List Manipulation
 
